@@ -1,0 +1,43 @@
+import java.sql.*;
+import java.util.Scanner;
+
+public class Update {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        try (Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/soft_uni?useSSL=false",
+                "root", "34273427");
+            PreparedStatement statement = connection.prepareStatement("UPDATE departments set name = ? WHERE department_id=?")) {
+
+            System.out.print("Enter id to rename needed record: ");
+            int id = Integer.parseInt(input.nextLine());
+            System.out.print("Enter new name of department: ");
+            String departmentName = input.nextLine();
+
+            statement.setString(1, departmentName);
+            statement.setInt(2, id);
+
+            statement.execute();
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        try (Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/soft_uni?useSSL=false",
+                "root", "34273427");
+             PreparedStatement statement = connection.prepareStatement("SELECT * FROM departments")) {
+
+            ResultSet resultSet = statement.executeQuery();
+            resultSet.beforeFirst();
+            while (resultSet.next()) {
+                System.out.println(String.format("%s %s %s", resultSet.getString("department_id"),
+                        resultSet.getString("name"),
+                        resultSet.getString("manager_id")));
+            }
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+}

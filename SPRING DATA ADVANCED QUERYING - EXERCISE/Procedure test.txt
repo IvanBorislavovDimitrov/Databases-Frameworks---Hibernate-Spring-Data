@@ -1,0 +1,35 @@
+delimiter $$
+create PROCEDURE usp_total_books(first_name varchar(100), last_name varchar(100), out number_of_books int ) 
+begin 
+	
+    select count(b.book_id) into number_of_books from authors as a
+    join books as b on a.author_id = b.author_id
+    where a.first_name = first_name and a.last_name = last_name
+    group by a.author_id
+    limit 1;
+    
+    select number_of_books;
+    
+end $$
+delimiter ;
+
+drop PROCEDURE usp_total_books;
+
+select * from authors;
+
+delimiter $$
+create PROCEDURE the_call(first_name varchar(100), last_name varchar(100)) 
+begin 
+	
+	set @param = 0;
+    
+    call usp_total_books(first_name, last_name, @param);
+    
+    select @param;
+    
+end $$
+delimiter ;
+
+drop PROCEDURE the_call;
+
+call the_call('Roger', 'Porter');

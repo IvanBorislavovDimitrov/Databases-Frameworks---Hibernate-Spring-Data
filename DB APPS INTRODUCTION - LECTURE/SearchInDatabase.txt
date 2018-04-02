@@ -1,0 +1,39 @@
+import java.sql.*;
+import java.util.Scanner;
+
+public class DiabloDatabaseConnection {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        String query = "SELECT \n" +
+                "    u.first_name, u.last_name, u.user_name, COUNT(*) AS `count`\n" +
+                "FROM\n" +
+                "    users AS u\n" +
+                "        JOIN\n" +
+                "    users_games AS ug ON ug.user_id = u.id\n" +
+                "WHERE\n" +
+                "    user_name = ?\n" +
+                "GROUP BY u.id\n" +
+                "HAVING `count` != 0;";
+
+        try (Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/diablo?useSSL=false",
+                "root", "34273427");
+             PreparedStatement statement = connection.prepareStatement(query)) {
+            System.out.print("Enter username: ");
+            String username = input.nextLine();
+
+            statement.setString(1, username);
+            ResultSet resultSet = statement.executeQuery();
+
+            if (resultSet.next()) {
+                System.out.println(String.format("%s %s has played %s games", resultSet.getString("first_name"),
+                        resultSet.getString("last_name"),
+                        resultSet.getString("count")));
+            } else {
+                System.out.println("No such user exists");
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+}

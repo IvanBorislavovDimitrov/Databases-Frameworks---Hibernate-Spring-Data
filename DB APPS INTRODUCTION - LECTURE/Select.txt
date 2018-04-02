@@ -1,0 +1,46 @@
+import java.sql.*;
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        String username = "root";
+
+        String password = "34273427";
+
+        Connection connection = null;
+        PreparedStatement statement = null;
+
+        try {
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/soft_uni?useSSL=false", username, password);
+
+            statement = connection.prepareStatement("SELECT * FROM employees WHERE salary > ?");
+
+            System.out.print("Enter salary: ");
+            String salary = input.nextLine();
+            statement.setDouble(1, Double.parseDouble(salary));
+            ResultSet resultSet = statement.executeQuery();
+
+            while (resultSet.next()) {
+                System.out.println(String.format("%s %s",
+                        resultSet.getString("first_name"),
+                        resultSet.getString("last_name")));
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (statement != null && ! statement.isClosed()) {
+                    statement.close();
+                }
+                if (connection != null && ! connection.isClosed()) {
+                    connection.close();
+                }
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+}
