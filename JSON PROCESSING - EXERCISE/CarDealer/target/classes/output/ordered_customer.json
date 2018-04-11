@@ -1,0 +1,1674 @@
+[
+  {
+    "id": 29,
+    "name": "Louann Holzworth",
+    "birthDate": "1960-10-01T00:00:00",
+    "isYoungDriver": false,
+    "saleDtos": [
+      {
+        "discount": 5.0,
+        "carName": "Peugeot 306"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Ford Ranger"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Mercedes A 170 CDI"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Peugeot 206"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Seat Mii"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Citroen C3"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Fiat Freemont"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Peugeot 405"
+      },
+      {
+        "discount": 0.0,
+        "carName": "BMW F20"
+      },
+      {
+        "discount": 10.0,
+        "carName": "BMW X6 M"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Donnetta Soliz",
+    "birthDate": "1963-10-01T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 0.0,
+        "carName": "BMW F25"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Peugeot 407"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Toyota Tacoma"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Ford Torino"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Nissan Altima"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Fiat 500L"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Peugeot 306"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Dacia Duster"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Nissan GT-R"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Citroen C5"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Citroen C4"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Toyota Corolla"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Fiat Panda 4x4 Antarctica"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Rema Revelle",
+    "birthDate": "1970-05-01T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 10.0,
+        "carName": "Chevy Caprice"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Dacia Sandero"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Rolls-Royce Ghost"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Nissan Altima"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Ford Pinto"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Renault Alaskan"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Toyota Prius"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Seat Ibiza"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Ferrari Daytona"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Citroen C8"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Carri Knapik",
+    "birthDate": "1972-02-02T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 30.0,
+        "carName": "Fiat Panda 4x4"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Citroen Berlingo"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Seat Ibiza"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Rolls-Royce Phantom Drophead Coupé"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Nissan Altima"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Toyota Camry Hybrid"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Great Wall Haval M4"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Ford Fiesta"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Nissan Altima"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Garret Capron",
+    "birthDate": "1975-07-01T00:00:00",
+    "isYoungDriver": false,
+    "saleDtos": [
+      {
+        "discount": 20.0,
+        "carName": "Rolls-Royce Phantom Drophead Coupé"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Ford Ranger"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Peugeot 206"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Toyota Prius"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Mercedes A 160 CDI"
+      },
+      {
+        "discount": 0.0,
+        "carName": "BMW F04"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Nissan Versa"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Toyota Yaris"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Nissan Altima"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Fiat 500 (2007) Abarth 695 Tributo Maserati"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Ford Pinto"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Opel Insignia"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Mercedes W212"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Toyota Prius"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Teddy Hobby",
+    "birthDate": "1975-10-01T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 40.0,
+        "carName": "Citroen C5"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Opel Corsa"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Lamborghini Diablo"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Skoda Rapid"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Nissan Altima"
+      },
+      {
+        "discount": 15.0,
+        "carName": "BMW M6 E63"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Ford Taurus"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Peugeot 308"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Citroen C8"
+      },
+      {
+        "discount": 5.0,
+        "carName": "BMW X6 M"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Ferrari F430"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Peugeot 405"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Seat Toledo"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Mercedes W210"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Audrea Cardinal",
+    "birthDate": "1976-10-01T00:00:00",
+    "isYoungDriver": false,
+    "saleDtos": [
+      {
+        "discount": 0.0,
+        "carName": "Chevy Camaro"
+      },
+      {
+        "discount": 15.0,
+        "carName": "BMW F20"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Peugeot 308"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Nissan 370Z"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Ford Torino"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Renault Captur"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Ford Pinto"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Chevy Camaro"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Toyota Tacoma"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Francis Mckim",
+    "birthDate": "1977-10-01T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 40.0,
+        "carName": "Skoda Citigo"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Great Wall H2"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Nissan 370Z"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Opel Vectra"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Citroen C5"
+      },
+      {
+        "discount": 5.0,
+        "carName": "BMW E67"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Mercedes W212"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Ferrari Daytona"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Chevy Caprice"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Mercedes W202"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Brett Brickley",
+    "birthDate": "1980-10-01T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 15.0,
+        "carName": "Skoda Fabia"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Toyota Tacoma"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Nissan 370Z"
+      },
+      {
+        "discount": 10.0,
+        "carName": "BMW F04"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Ferrari 275"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Opel Corsa"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Lamborghini Gallardo"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Skoda Rapid"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Dacia Dokker"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Toyota Yaris"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Opel Omega"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Fiat 500 (2007) Abarth 695 Tributo Maserati"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Alfa Romeo 156"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Kristian Engberg",
+    "birthDate": "1981-10-03T00:00:00",
+    "isYoungDriver": false,
+    "saleDtos": [
+      {
+        "discount": 5.0,
+        "carName": "Nissan 370Z"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Citroen Elysée"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Fiat Panda"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Renault Alaskan"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Toyota Camry Hybrid"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Dacia Logan"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Ford Fiesta"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Renault Clio IV"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Chevy Corvette"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Alfa Romeo Alfetta"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Opel Omega"
+      },
+      {
+        "discount": 15.0,
+        "carName": "BMW X6 M"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Skoda Fabia"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Hipolito Lamoreaux",
+    "birthDate": "1982-08-01T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 30.0,
+        "carName": "Rolls-Royce Phantom Drophead Coupé"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Peugeot 308"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Ferrari F430"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Citroen C4"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Citroen C1"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Toyota Prius"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Skoda Fabia"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Ferrari 275"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Toyota Tacoma"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Peugeot 306"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Opel Omega"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Fiat Freemont"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Opel Astra"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Opel Astra"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Peugeot 206"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Skoda Citigo"
+      },
+      {
+        "discount": 20.0,
+        "carName": "BMW F20"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Nissan Altima"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Toyota Prius"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Alfa Romeo 156"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Zada Attwood",
+    "birthDate": "1982-10-01T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 10.0,
+        "carName": "Peugeot 206"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Great Wall H8"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Ford Pinto"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Mercedes W211"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Skoda Fabia"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Great Wall Steed 3"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Dacia Dokker"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Rolls-Royce Phantom"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Fiat Freemont"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Ford Torino"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Ford GT40"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Skoda Citigo"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Citroen C1"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Skoda Fabia"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Sylvie Mcelravy",
+    "birthDate": "1983-10-01T00:00:00",
+    "isYoungDriver": false,
+    "saleDtos": [
+      {
+        "discount": 30.0,
+        "carName": "Mercedes W203"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Seat Toledo"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Mercedes W211"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Rolls-Royce Dawn"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Chevy Malibu"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Peugeot 206"
+      },
+      {
+        "discount": 5.0,
+        "carName": "BMW M Roadster E85"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Ford Taurus"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Ferrari 250 GTO"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Rico Peer",
+    "birthDate": "1984-10-01T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 5.0,
+        "carName": "Rolls-Royce Ghost"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Alfa Romeo 164"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Seat Toledo"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Peugeot 308"
+      },
+      {
+        "discount": 0.0,
+        "carName": "BMW E88"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Nissan Altima"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Citroen C1"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Citroen Berlingo"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Seat Mii"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Nissan GT-R"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Ford Fiesta"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Alfa Romeo Giulietta"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Nissan Altima"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Hai Everton",
+    "birthDate": "1985-10-01T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 0.0,
+        "carName": "Citroen C5"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Seat Mii"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Peugeot 407"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Toyota Prius"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Mercedes A 140"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Mercedes W211"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Seat Mii"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Opel Corsa"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Toyota Camry Hybrid"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Citroen C3"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Alfa Romeo Giulia"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Chevy Camaro"
+      },
+      {
+        "discount": 30.0,
+        "carName": "BMW M6 E63"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Lino Subia",
+    "birthDate": "1985-12-21T00:00:00",
+    "isYoungDriver": false,
+    "saleDtos": [
+      {
+        "discount": 15.0,
+        "carName": "Ferrari F40"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Opel Astra"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Chevy Impala"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Renault Alaskan"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Dacia Sandero Stepway"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Lamborghini Murciélago"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Fiat 500 (2007) Abarth 695 Tributo Maserati"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Citroen C1"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Mercedes W204"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Nissan Rogue"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Fiat Panda"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Jimmy Grossi",
+    "birthDate": "1986-07-01T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 10.0,
+        "carName": "Citroen Elysée"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Opel Kadet"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Renault Alaskan"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Fiat Panda"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Ferrari 250 GTO"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Ford Pinto"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Ford Fiesta"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Lamborghini Gallardo"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Citroen C8"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Toyota Tacoma"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Alfa Romeo AR51"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Carole Witman",
+    "birthDate": "1987-10-01T00:00:00",
+    "isYoungDriver": false,
+    "saleDtos": [
+      {
+        "discount": 5.0,
+        "carName": "Nissan GT-R"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Dacia Duster"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Chevy Caprice"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Citroen C1"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Peugeot 405"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Fiat Panda 4x4"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Alfa Romeo Giulietta"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Opel Omega"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Rolls-Royce Phantom"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Seat Toledo"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Citroen C1"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Ferrari F40"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Chevy Impala"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Oren Perlman",
+    "birthDate": "1988-10-01T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 30.0,
+        "carName": "Ferrari Daytona"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Toyota Prius"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Toyota Prius"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Renault Espace"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Ford Fiesta"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Dacia Dokker"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Fiat Panda 4x4 Antarctica"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Fiat Panda 4x4 Antarctica"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Natalie Poli",
+    "birthDate": "1990-10-04T00:00:00",
+    "isYoungDriver": false,
+    "saleDtos": [
+      {
+        "discount": 15.0,
+        "carName": "Fiat 500L"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Citroen C1"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Chevy Camaro"
+      },
+      {
+        "discount": 10.0,
+        "carName": "BMW M6 E63"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Dacia Sandero"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Skoda Rapid Spaceback"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Seat Mii"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Toyota Corolla"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Alfa Romeo Giulietta"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Dacia Logan"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Ferrari 250 GTO"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Chevy Matiz"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Marcelle Griego",
+    "birthDate": "1990-10-04T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 15.0,
+        "carName": "Peugeot 306"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Fiat 500L"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Chevy Caprice"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Renault Espace"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Peugeot 407"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Nissan GT-R"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Toyota Tacoma"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Yvonne Mccalla",
+    "birthDate": "1992-03-02T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 10.0,
+        "carName": "Toyota Yaris"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Renault Duster"
+      },
+      {
+        "discount": 40.0,
+        "carName": "BMW F20"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Opel Corsa"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Citroen C3"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Citroen C1"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Skoda Rapid Spaceback"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Chevy Cruze"
+      },
+      {
+        "discount": 30.0,
+        "carName": "BMW M5 F10"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Rolls-Royce Wraith"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Ann Mcenaney",
+    "birthDate": "1992-03-02T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 50.0,
+        "carName": "Nissan GT-R"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Toyota Corolla"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Lamborghini Gallardo"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Alfa Romeo AR51"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Renault Duster"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Ferrari F40"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Great Wall Haval H6"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Citroen C3"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Ford GT40"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Alfa Romeo 75"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Chevy Cruze"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Opel Insignia"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Cinthia Lasala",
+    "birthDate": "1992-11-01T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 10.0,
+        "carName": "BMW F04"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Ford Fiesta"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Nissan GT-R"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Great Wall H2"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Alfa Romeo Giulietta"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Toyota Prius"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Seat Toledo"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Peugeot 405"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Chevy Camaro"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Toyota Prius"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Chevy Malibu"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Toyota Prius"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Emmitt Benally",
+    "birthDate": "1993-11-20T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 15.0,
+        "carName": "Alfa Romeo 75"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Peugeot 405"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Dacia Logan"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Toyota Corolla"
+      },
+      {
+        "discount": 15.0,
+        "carName": "BMW 1M Coupe"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Mercedes W212"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Mercedes W124"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Ferrari 250 GTO"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Chevy Corvette"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Nissan GT-R"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Mercedes W202"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Nisha Markwell",
+    "birthDate": "1994-04-04T00:00:00",
+    "isYoungDriver": false,
+    "saleDtos": [
+      {
+        "discount": 50.0,
+        "carName": "Rolls-Royce Phantom"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Dacia Logan"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Skoda Citigo"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Ferrari 275"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Toyota Corolla"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Ferrari Daytona"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Toyota Prius"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Chevy Camaro"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Nissan 370Z"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Renault Duster"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Citroen C5"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Nissan Versa"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Toyota Prius"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Nissan GT-R"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Faustina Burgher",
+    "birthDate": "1994-06-01T00:00:00",
+    "isYoungDriver": false,
+    "saleDtos": [
+      {
+        "discount": 15.0,
+        "carName": "Renault Alaskan"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Rolls-Royce Wraith"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Ferrari Enzo"
+      },
+      {
+        "discount": 5.0,
+        "carName": "BMW M5 F10"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Renault Alaskan"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Alfa Romeo 75"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Opel Omega"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Mercedes A 160"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Fiat 500L"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Dacia Sandero Stepway"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Dacia Sandero"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Ferrari 250 GTO"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Fiat Panda 4x4"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Taina Achenbach",
+    "birthDate": "1994-10-01T00:00:00",
+    "isYoungDriver": false,
+    "saleDtos": [
+      {
+        "discount": 5.0,
+        "carName": "Nissan Rogue"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Nissan Versa"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Opel Vectra"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Ford Torino"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Toyota Tacoma"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Great Wall Wingle 5"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Seat Ibiza"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Nissan GT-R"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Toyota Corolla"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Nissan GT-R"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Nissan 370Z"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Renault Clio IV"
+      },
+      {
+        "discount": 10.0,
+        "carName": "Great Wall Haval M4"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Johnette Derryberry",
+    "birthDate": "1995-10-01T00:00:00",
+    "isYoungDriver": true,
+    "saleDtos": [
+      {
+        "discount": 5.0,
+        "carName": "Lamborghini Murciélago"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Seat Mii"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Seat Ibiza"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Ford Pinto"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Toyota Tacoma"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Ferrari F430"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Toyota Camry Hybrid"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Citroen C4"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Mercedes W124"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Lamborghini Diablo"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Daniele Zarate",
+    "birthDate": "1995-10-05T00:00:00",
+    "isYoungDriver": false,
+    "saleDtos": [
+      {
+        "discount": 30.0,
+        "carName": "Seat Toledo"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Renault Captur"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Peugeot 206"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Toyota Camry Hybrid"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Fiat Freemont"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Mercedes W210"
+      },
+      {
+        "discount": 50.0,
+        "carName": "Opel Astra"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Citroen C1"
+      },
+      {
+        "discount": 15.0,
+        "carName": "Renault Alaskan"
+      },
+      {
+        "discount": 0.0,
+        "carName": "Dacia Logan"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Mercedes W212"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Opel Insignia"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Toyota Yaris"
+      },
+      {
+        "discount": 40.0,
+        "carName": "Skoda Citigo"
+      },
+      {
+        "discount": 20.0,
+        "carName": "Fiat 500L"
+      },
+      {
+        "discount": 30.0,
+        "carName": "Mercedes W212"
+      },
+      {
+        "discount": 5.0,
+        "carName": "Fiat Panda"
+      }
+    ]
+  }
+]
