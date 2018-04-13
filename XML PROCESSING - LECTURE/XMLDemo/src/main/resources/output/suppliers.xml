@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<suppliers>
+    <supplier>
+        <name>3M Company</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Windshield</name>
+                <price>100.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Crankshaft</name>
+                <price>4.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Tappet</name>
+                <price>300.29</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Valve spring</name>
+                <price>104.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Agway Inc.</name>
+        <is_importer>false</is_importer>
+        <parts>
+            <part>
+                <name>Bonnet/hood</name>
+                <price>1001.34</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Quarter panel</name>
+                <price>100.99</price>
+                <quantity>200</quantity>
+            </part>
+            <part>
+                <name>Cylinder head</name>
+                <price>6.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Harmonic balancer</name>
+                <price>67.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Clutch assembly</name>
+                <price>120.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Speed reducer</name>
+                <price>14.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Anthem, Inc.</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Rims</name>
+                <price>4020.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Fuel tank</name>
+                <price>100.98</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Rear Right Side Door Glass</name>
+                <price>100.9</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Fuel cooler</name>
+                <price>140.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Transmission pan</name>
+                <price>106.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Airgas, Inc.</name>
+        <is_importer>false</is_importer>
+        <parts>
+            <part>
+                <name>Water pump pulley</name>
+                <price>150.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Atmel Corporation</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Unexposed bumper</name>
+                <price>1003.34</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Door latch</name>
+                <price>2331.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Window seal</name>
+                <price>100.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Crank pulley</name>
+                <price>2.8</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Cooling fan</name>
+                <price>120.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Master cylinder</name>
+                <price>130.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Big Lots, Inc.</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Door control module</name>
+                <price>421.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Coolant hose </name>
+                <price>150.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Oil filter</name>
+                <price>200.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Fuel filter</name>
+                <price>162.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Caterpillar Inc.</name>
+        <is_importer>false</is_importer>
+        <parts>
+            <part>
+                <name>Front Left Side Inner door handle</name>
+                <price>77.99</price>
+                <quantity>1032</quantity>
+            </part>
+            <part>
+                <name>Door seal</name>
+                <price>444.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Exhaust clamp and bracket</name>
+                <price>140.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Casey's General Stores Inc.</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Front Left Side Window motor</name>
+                <price>56.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Starter motor</name>
+                <price>0.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Cintas Corp.</name>
+        <is_importer>false</is_importer>
+        <parts>
+            <part>
+                <name>Back Door Outer Door Handle</name>
+                <price>43.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Drive belt</name>
+                <price>3.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Steering arm</name>
+                <price>104.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Steering box</name>
+                <price>103.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Chubb Corp</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Radiator </name>
+                <price>100.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Front Left Side Outer door handle</name>
+                <price>999.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Center-locking</name>
+                <price>313.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Valve cover</name>
+                <price>130.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Radiator gasket</name>
+                <price>140.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Catalytic converter</name>
+                <price>540.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Clutch shoe</name>
+                <price>10.49</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Cintas Corp.</name>
+        <is_importer>false</is_importer>
+        <parts>
+            <part>
+                <name>Decklid</name>
+                <price>1060.34</price>
+                <quantity>11</quantity>
+            </part>
+            <part>
+                <name>Rear Left Side Door Glass</name>
+                <price>100.66</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Engine</name>
+                <price>100.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Valve housing</name>
+                <price>400.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Water pump</name>
+                <price>44.93</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Air filter</name>
+                <price>200.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>CNF Inc.</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Front Right Side Inner door handle</name>
+                <price>100.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Front Right Side Window motor</name>
+                <price>44.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Front Right Side Door Glass</name>
+                <price>100.91</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Water pump gasket</name>
+                <price>120.29</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>CMGI Inc.</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Exposed bumper</name>
+                <price>1400.34</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Trunk/boot/hatch</name>
+                <price>2200.99</price>
+                <quantity>300</quantity>
+            </part>
+            <part>
+                <name>Rocker cover</name>
+                <price>10.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Timing tape</name>
+                <price>40.9</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>The Clorox Co.</name>
+        <is_importer>false</is_importer>
+        <parts>
+            <part>
+                <name>Radiator (fan) shroud</name>
+                <price>300.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Oil strainer</name>
+                <price>45.29</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Heat shield</name>
+                <price>10.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Differential seal</name>
+                <price>109.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Danaher Corporation</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Door water-shield</name>
+                <price>123.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Front Left Side Door Glass</name>
+                <price>100.92</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Sunroof Glass</name>
+                <price>205.24</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Air blower</name>
+                <price>140.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>E.I. Du Pont de Nemours and Company</name>
+        <is_importer>false</is_importer>
+        <parts>
+            <part>
+                <name>Door lock and power door locks</name>
+                <price>120.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Camshaft</name>
+                <price>100.98</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Water neck</name>
+                <price>900.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Muffler</name>
+                <price>106.9</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Fuel pressure regulator</name>
+                <price>100.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>E*Trade Group, Inc.</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Front Right Outer door handle</name>
+                <price>999.99</price>
+                <quantity>345</quantity>
+            </part>
+            <part>
+                <name>Engine shake damper and vibration absorber</name>
+                <price>100.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Emcor Group Inc.</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Rear Left Side Outer door handle</name>
+                <price>120.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Rear Right Side Inner door handle</name>
+                <price>79.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Crank case</name>
+                <price>2.93</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Fan belt</name>
+                <price>10.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Fan clutch</name>
+                <price>120.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>GenCorp Inc.</name>
+        <is_importer>false</is_importer>
+        <parts>
+            <part>
+                <name>Rear Left Side Window motor</name>
+                <price>144.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Distributor</name>
+                <price>7.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Exhaust flange gasket</name>
+                <price>130.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Transmission gear</name>
+                <price>15.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>IDT Corporation</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Valance</name>
+                <price>1002.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Hinge</name>
+                <price>11.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Thermostat</name>
+                <price>1050.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Oil gasket</name>
+                <price>130.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Oil pump</name>
+                <price>100.19</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Differential clutch</name>
+                <price>120.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Level 3 Communications Inc.</name>
+        <is_importer>false</is_importer>
+        <parts>
+            <part>
+                <name>Roof rack</name>
+                <price>100.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Spoiler</name>
+                <price>3000.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Welded assembly</name>
+                <price>1020.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Rear Left Quarter Glass</name>
+                <price>100.55</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Distributor cap</name>
+                <price>9.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Engine block</name>
+                <price>40.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Choke cable</name>
+                <price>130.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Merck &amp; Co., Inc.</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Trim package</name>
+                <price>1900.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Sunroof Rail</name>
+                <price>100.25</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Rocker arm</name>
+                <price>98.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Radiator pressure cap</name>
+                <price>600.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Exhaust pipe</name>
+                <price>130.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Nicor Inc</name>
+        <is_importer>false</is_importer>
+        <parts>
+            <part>
+                <name>Rear Left Side Inner door handle</name>
+                <price>93.99</price>
+                <quantity>234</quantity>
+            </part>
+            <part>
+                <name>Window motor</name>
+                <price>123.49</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Gudgeon pin</name>
+                <price>44.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Valve stem seal</name>
+                <price>120.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Fan blade</name>
+                <price>150.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Olin Corp.</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Cowl screen</name>
+                <price>1500.34</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Poppet valve</name>
+                <price>88.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Oil pipe</name>
+                <price>100.29</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Paychex Inc</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Rear Right Side Window motor</name>
+                <price>22.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Window regulator</name>
+                <price>100.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Saks Inc</name>
+        <is_importer>false</is_importer>
+        <parts>
+            <part>
+                <name>Front fascia</name>
+                <price>11.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Rear Right Quarter Glass</name>
+                <price>100.66</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Sunroof</name>
+                <price>103.43</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Engine cradle</name>
+                <price>39.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Heater</name>
+                <price>82.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Piston</name>
+                <price>94.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Water pipe</name>
+                <price>44.94</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Sunoco Inc.</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Rocker</name>
+                <price>100.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Fuel rail</name>
+                <price>107.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Textron Inc</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Fender</name>
+                <price>10.34</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Front clip</name>
+                <price>100.0</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Turbocharger</name>
+                <price>0.4</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Water neck o-ring</name>
+                <price>43.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>VF Corporation</name>
+        <is_importer>false</is_importer>
+        <parts>
+            <part>
+                <name>Fascia</name>
+                <price>100.34</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Pillar</name>
+                <price>100.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Engine valve</name>
+                <price>49.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Oil pan</name>
+                <price>140.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Wyeth</name>
+        <is_importer>true</is_importer>
+        <parts>
+            <part>
+                <name>Grille</name>
+                <price>144.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Rear Right Side Outer door handle</name>
+                <price>80.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Overflow tank</name>
+                <price>1200.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Water tank</name>
+                <price>100.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+    <supplier>
+        <name>Zale</name>
+        <is_importer>false</is_importer>
+        <parts>
+            <part>
+                <name>Radiator bolt</name>
+                <price>160.99</price>
+                <quantity>10</quantity>
+            </part>
+            <part>
+                <name>Resonator</name>
+                <price>106.99</price>
+                <quantity>10</quantity>
+            </part>
+        </parts>
+    </supplier>
+</suppliers>
