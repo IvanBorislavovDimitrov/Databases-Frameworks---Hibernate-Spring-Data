@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<photographers>
+    <photographer name="Melodee Shepler" primary-camera="Nikon">
+        <lens>
+            <len make="Tokina" focal-length="20" max-aperture="2.80"/>
+        </lens>
+    </photographer>
+    <photographer name="Jenna Baize" primary-camera="Fuji">
+        <lens>
+            <len make="Nikon" focal-length="8" max-aperture="3.50"/>
+            <len make="Pentax" focal-length="135" max-aperture="2.80"/>
+        </lens>
+    </photographer>
+    <photographer name="Mckenzie Monteiro" primary-camera="Canon">
+        <lens>
+            <len make="Nikon" focal-length="135" max-aperture="2.80"/>
+        </lens>
+    </photographer>
+    <photographer name="Dani Vanness" primary-camera="Pentax">
+        <lens>
+            <len make="Nikon" focal-length="10" max-aperture="4.00"/>
+            <len make="Canon" focal-length="10" max-aperture="3.50"/>
+            <len make="Sigma" focal-length="11" max-aperture="2.00"/>
+            <len make="Canon" focal-length="8" max-aperture="2.80"/>
+        </lens>
+    </photographer>
+    <photographer name="Antonetta Gano" primary-camera="Nikon">
+        <lens>
+            <len make="Nikon" focal-length="14" max-aperture="4.00"/>
+        </lens>
+    </photographer>
+    <photographer name="Cheri Regina" primary-camera="Nikon">
+        <lens>
+            <len make="Nikon" focal-length="24" max-aperture="4.00"/>
+            <len make="Sigma" focal-length="40" max-aperture="1.80"/>
+            <len make="Pentax" focal-length="18" max-aperture="2.80"/>
+            <len make="Sigma" focal-length="16" max-aperture="2.40"/>
+            <len make="Nikon" focal-length="16" max-aperture="4.00"/>
+        </lens>
+    </photographer>
+    <photographer name="Romona Griffin" primary-camera="Pentax">
+        <lens>
+            <len make="Sigma" focal-length="135" max-aperture="4.00"/>
+            <len make="Tamron" focal-length="24" max-aperture="1.80"/>
+            <len make="Tamron" focal-length="28" max-aperture="2.80"/>
+        </lens>
+    </photographer>
+    <photographer name="Joan Fife" primary-camera="Nikon">
+        <lens>
+            <len make="Nikon" focal-length="1200" max-aperture="8.00"/>
+            <len make="Canon" focal-length="1200" max-aperture="2.40"/>
+            <len make="Tokina" focal-length="14" max-aperture="2.00"/>
+            <len make="Tamron" focal-length="24" max-aperture="1.80"/>
+            <len make="Nikon" focal-length="28" max-aperture="4.00"/>
+            <len make="Canon" focal-length="1000" max-aperture="2.40"/>
+        </lens>
+    </photographer>
+    <photographer name="Shon Bjerke" primary-camera="Pentax">
+        <lens>
+            <len make="Tokina" focal-length="14" max-aperture="2.00"/>
+            <len make="Tokina" focal-length="20" max-aperture="2.00"/>
+            <len make="Sigma" focal-length="24" max-aperture="1.80"/>
+            <len make="Tamron" focal-length="24" max-aperture="1.80"/>
+        </lens>
+    </photographer>
+    <photographer name="Shannon Clendenin" primary-camera="Nikon">
+        <lens>
+            <len make="Nikon" focal-length="40" max-aperture="2.80"/>
+            <len make="Canon" focal-length="15" max-aperture="1.40"/>
+            <len make="Sigma" focal-length="85" max-aperture="1.40"/>
+            <len make="Pentax" focal-length="400" max-aperture="4.00"/>
+            <len make="Sigma" focal-length="28" max-aperture="4.00"/>
+            <len make="Nikon" focal-length="40" max-aperture="4.00"/>
+            <len make="Tamron" focal-length="24" max-aperture="1.80"/>
+            <len make="Sigma" focal-length="15" max-aperture="1.80"/>
+            <len make="Pentax" focal-length="200" max-aperture="2.80"/>
+        </lens>
+    </photographer>
+    <photographer name="Deetta Beausoleil" primary-camera="Pentax">
+        <lens>
+            <len make="Nikon" focal-length="350" max-aperture="5.60"/>
+            <len make="Canon" focal-length="12" max-aperture="3.50"/>
+            <len make="Sigma" focal-length="16" max-aperture="2.00"/>
+            <len make="Sigma" focal-length="77" max-aperture="4.00"/>
+            <len make="Sigma" focal-length="200" max-aperture="2.80"/>
+            <len make="Pentax" focal-length="15" max-aperture="2.80"/>
+            <len make="Canon" focal-length="16" max-aperture="2.40"/>
+            <len make="Pentax" focal-length="200" max-aperture="2.80"/>
+            <len make="Tokina" focal-length="14" max-aperture="2.00"/>
+        </lens>
+    </photographer>
+</photographers>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<procedures>
+    <procedure animal-passport="Lucy">
+        <owner>Ivan Ivanov</owner>
+        <animal-aids>
+            <animal-aid name="Fecal Test" price="7.50"/>
+            <animal-aid name="Nasal Bordetella" price="5.60"/>
+            <animal-aid name="Internal Deworming" price="8.00"/>
+        </animal-aids>
+        <date>2014-10-12 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Bernie">
+        <owner>Annie Ivanov</owner>
+        <animal-aids>
+            <animal-aid name="Fecal Test" price="7.50"/>
+            <animal-aid name="Lyme Test" price="15.00"/>
+        </animal-aids>
+        <date>2014-06-13 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Barker">
+        <owner>Tonny Dobrev</owner>
+        <animal-aids>
+            <animal-aid name="Injectable Bordetella" price="8.40"/>
+            <animal-aid name="Canine Heartworm Test" price="15.00"/>
+        </animal-aids>
+        <date>2012-02-19 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Charlie">
+        <owner>Thomas Berger</owner>
+        <animal-aids>
+            <animal-aid name="Fecal Test" price="7.50"/>
+            <animal-aid name="Internal Deworming" price="8.00"/>
+        </animal-aids>
+        <date>2015-10-21 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Charlie">
+        <owner>Thomas Berger</owner>
+        <animal-aids>
+            <animal-aid name="Fecal Test" price="7.50"/>
+            <animal-aid name="Internal Deworming" price="8.00"/>
+        </animal-aids>
+        <date>2013-09-08 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Arrow">
+        <owner>Leonardo Dicaprio</owner>
+        <animal-aids>
+            <animal-aid name="H3N2" price="28.00"/>
+        </animal-aids>
+        <date>2015-03-17 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Arrow">
+        <owner>Leonardo Dicaprio</owner>
+        <animal-aids>
+            <animal-aid name="Fecal Test" price="7.50"/>
+            <animal-aid name="Lyme Test" price="15.00"/>
+        </animal-aids>
+        <date>2013-09-24 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Jessy">
+        <owner>Ivan Ivanov</owner>
+        <animal-aids>
+            <animal-aid name="Canine Rabbies Vaccine" price="10.00"/>
+        </animal-aids>
+        <date>2014-10-25 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Barker">
+        <owner>Tonny Dobrev</owner>
+        <animal-aids>
+            <animal-aid name="Lepto 4" price="15.90"/>
+            <animal-aid name="Lyme Test" price="15.00"/>
+        </animal-aids>
+        <date>2012-04-12 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Leo">
+        <owner>Renny Gabriel</owner>
+        <animal-aids>
+            <animal-aid name="Injectable Bordetella" price="8.40"/>
+        </animal-aids>
+        <date>2013-07-15 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Cleo">
+        <owner>Renny Gabriel</owner>
+        <animal-aids>
+            <animal-aid name="PureVax Rabies" price="7.80"/>
+            <animal-aid name="Nasal Bordetella" price="5.60"/>
+        </animal-aids>
+        <date>2015-10-24 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Cleo">
+        <owner>Renny Gabriel</owner>
+        <animal-aids>
+            <animal-aid name="H3N8" price="35.00"/>
+            <animal-aid name="Bordetella" price="7.55"/>
+        </animal-aids>
+        <date>2015-07-17 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Cleo">
+        <owner>Renny Gabriel</owner>
+        <animal-aids>
+            <animal-aid name="Fecal Test" price="7.50"/>
+            <animal-aid name="Internal Deworming" price="8.00"/>
+        </animal-aids>
+        <date>2014-05-12 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Bella">
+        <owner>Sheldon Cooper</owner>
+        <animal-aids>
+            <animal-aid name="H3N2" price="28.00"/>
+        </animal-aids>
+        <date>2013-03-22 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Bernie">
+        <owner>Annie Ivanov</owner>
+        <animal-aids>
+            <animal-aid name="Lepto 4" price="15.90"/>
+            <animal-aid name="Nasal Bordetella" price="5.60"/>
+        </animal-aids>
+        <date>2015-08-27 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Chloe">
+        <owner>Sheldon Cooper</owner>
+        <animal-aids>
+            <animal-aid name="Canine Rabbies Vaccine" price="10.00"/>
+        </animal-aids>
+        <date>2015-05-01 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Cleo">
+        <owner>Renny Gabriel</owner>
+        <animal-aids>
+            <animal-aid name="H3N8" price="35.00"/>
+        </animal-aids>
+        <date>2013-12-05 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Cleo">
+        <owner>Renny Gabriel</owner>
+        <animal-aids>
+            <animal-aid name="H3N8" price="35.00"/>
+        </animal-aids>
+        <date>2017-03-22 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Lucy">
+        <owner>Ivan Ivanov</owner>
+        <animal-aids>
+            <animal-aid name="Lyme Test" price="15.00"/>
+        </animal-aids>
+        <date>2015-09-07 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Jessy">
+        <owner>Ivan Ivanov</owner>
+        <animal-aids>
+            <animal-aid name="Fecal Test" price="7.50"/>
+            <animal-aid name="Bordetella" price="7.55"/>
+            <animal-aid name="Lepto 4" price="15.90"/>
+            <animal-aid name="Lyme Test" price="15.00"/>
+        </animal-aids>
+        <date>2013-10-03 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Lucy">
+        <owner>Ivan Ivanov</owner>
+        <animal-aids>
+            <animal-aid name="Lyme Test" price="15.00"/>
+        </animal-aids>
+        <date>2014-05-21 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Alfie">
+        <owner>Jason Borne</owner>
+        <animal-aids>
+            <animal-aid name="Lepto 4" price="15.90"/>
+            <animal-aid name="Canine Heartworm Test" price="15.00"/>
+        </animal-aids>
+        <date>2014-11-22 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Shadow">
+        <owner>Simona Hristova</owner>
+        <animal-aids>
+            <animal-aid name="H3N2" price="28.00"/>
+            <animal-aid name="Lyme Test" price="15.00"/>
+        </animal-aids>
+        <date>2014-03-07 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Chloe">
+        <owner>Sheldon Cooper</owner>
+        <animal-aids>
+            <animal-aid name="Lepto 4" price="15.90"/>
+            <animal-aid name="Nasal Bordetella" price="5.60"/>
+        </animal-aids>
+        <date>2016-09-06 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Leo">
+        <owner>Renny Gabriel</owner>
+        <animal-aids>
+            <animal-aid name="Fecal Test" price="7.50"/>
+        </animal-aids>
+        <date>2013-05-26 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Leo">
+        <owner>Renny Gabriel</owner>
+        <animal-aids>
+            <animal-aid name="Lepto 4" price="15.90"/>
+            <animal-aid name="H3N2" price="28.00"/>
+            <animal-aid name="Nasal Bordetella" price="5.60"/>
+        </animal-aids>
+        <date>2015-08-27 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Cleo">
+        <owner>Renny Gabriel</owner>
+        <animal-aids>
+            <animal-aid name="Fecal Test" price="7.50"/>
+            <animal-aid name="Canine Rabbies Vaccine" price="10.00"/>
+        </animal-aids>
+        <date>2013-10-16 00:00:00.0</date>
+    </procedure>
+    <procedure animal-passport="Cleo">
+        <owner>Renny Gabriel</owner>
+        <animal-aids>
+            <animal-aid name="Fecal Test" price="7.50"/>
+            <animal-aid name="Canine Rabbies Vaccine" price="10.00"/>
+        </animal-aids>
+        <date>2015-12-31 00:00:00.0</date>
+    </procedure>
+</procedures>
